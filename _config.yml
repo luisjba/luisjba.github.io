@@ -12,5 +12,6 @@ include:
   - CONTRIBUTING.md
   - ISSUE_TEMPLATE.md
   - PULL_REQUEST_TEMPLATE.md
+  - /docker-mcd-covid19-mx/work/results.slides.html
 
 theme: jekyll-theme-minimal
